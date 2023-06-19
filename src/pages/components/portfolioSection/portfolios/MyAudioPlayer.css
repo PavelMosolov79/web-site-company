@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap%27');
+
+
+.music_custom-title__container {
+	text-align: left;
+	position: absolute;
+	display: flex;
+	flex-direction: column;
+	height: 70px;
+	justify-content: space-between;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+}
+
+.rhap_container {
+	background-color: transparent;
+	border: none;
+	box-shadow: none;
+}
+
+.rhap_main-controls-button {
+	height: 100px;
+	width: 100px;
+}
+
+.rhap_progress-filled {
+	background-color: #3C4ACB;
+}
+
+.rhap_time {
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+}
+
+.rhap_download-progress, .rhap_progress-bar, .rhap_progress-bar-show-download {
+	background-color: black;
+}
+
+.rhap_controls-section {
+	flex: none;
+}
