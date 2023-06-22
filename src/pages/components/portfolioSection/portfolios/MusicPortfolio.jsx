@@ -9,9 +9,9 @@ const MusicPortfolio = () => {
     return (
     	<PortfolioCard title="МУЗЫКА">
     		<div className="portfolio__music__container">
-	    		<MyAudioPlayer src="space_man.mp3" author="Кирилл Липинский" title="Space man" />
-	    		<MyAudioPlayer src="cinematic intro.mp3" author="Кирилл Липинский" title="Cinematic intro" />
-	    		<MyAudioPlayer src="arabic.mp3" author="Кирилл Липинский" title="Arabic" />
+	    		<MyAudioPlayer src="space_man.mp3" author="ocular" title="Space man" />
+	    		<MyAudioPlayer src="cinematic intro.mp3" author="ocular" title="Cinematic intro" />
+	    		<MyAudioPlayer src="arabic.mp3" author="ocular" title="Arabic" />
     		</div>
     	</PortfolioCard>
     );
