@@ -43,7 +43,7 @@
         padding: calc(var(--index) * 1) calc(var(--index) * 1.3);
         margin-top: calc(var(--index) * 0.5);
         font-weight: 500;
-        font-size: calc(var(--index) * 1);
+        font-size: calc(var(--index) * 0.8);
         color: #FFFFFF;
         resize: none;
     }
@@ -70,7 +70,7 @@
         padding: 0 calc(var(--index) * 1);
         margin: calc(var(--index) * 0.5);
         font-weight: 500;
-        font-size: calc(var(--index) * 1);
+        font-size: calc(var(--index) * 0.8);
         color: #FFFFFF;
     }
     
@@ -88,7 +88,7 @@
         padding: 0 calc(var(--index) * 1);
         margin: calc(var(--index) * 0.5);
         font-weight: 500;
-        font-size: calc(var(--index) * 1);
+        font-size: calc(var(--index) * 0.8);
         color: #FFFFFF;
     }
     
@@ -106,7 +106,7 @@
         padding: 0 calc(var(--index) * 1);
         margin: calc(var(--index) * 0.5);
         font-weight: 500;
-        font-size: calc(var(--index) * 1);
+        font-size: calc(var(--index) * 0.8);
         color: #FFFFFF;
     }
     
@@ -148,7 +148,7 @@
         padding: calc(var(--index) * 1) calc(var(--index) * 1.3);
         margin-top: calc(var(--index) * 0.5);
         font-weight: 500;
-        font-size: calc(var(--index) * 1);
+        font-size: calc(var(--index) * 0.8);
         color: #FFFFFF;
         resize: none;
     }
@@ -175,7 +175,7 @@
         padding: 0 calc(var(--index) * 1);
         margin: calc(var(--index) * 0.5);
         font-weight: 500;
-        font-size: calc(var(--index) * 1);
+        font-size: calc(var(--index) * 0.8);
         color: #FFFFFF;
     }
     
@@ -193,7 +193,7 @@
         padding: 0 calc(var(--index) * 1);
         margin: calc(var(--index) * 0.5);
         font-weight: 500;
-        font-size: calc(var(--index) * 1);
+        font-size: calc(var(--index) * 0.8);
         color: #FFFFFF;
     }
     
@@ -211,7 +211,7 @@
         padding: 0 calc(var(--index) * 1);
         margin: calc(var(--index) * 0.5);
         font-weight: 500;
-        font-size: calc(var(--index) * 1);
+        font-size: calc(var(--index) * 0.8);
         color: #FFFFFF;
     }
     
