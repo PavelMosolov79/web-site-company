@@ -8,7 +8,7 @@ import StockSection from "./components/stockSection/StockSection"
 import { useRef } from "react";
 import "./Home.css";
 
-export default function Home() {
+const Home = () => {
   const fullpage = useRef(null);
 
   const scrollToElement = (id) => {
@@ -45,3 +45,5 @@ export default function Home() {
     </scroll-container>
   )
 }
+
+export default Home;

@@ -62,7 +62,7 @@ const StockSection = ({ func }) => {
                     <img src="stock-section-image.png" alt="Приложение расписания"/>
                 </div>
                 <div className="stock__container__info">
-                    <a className="stock__container__text__header">Офрми заявку прямо сейчас</a>
+                    <a className="stock__container__text__header">Оформи заявку прямо сейчас</a>
                     <a className="stock__container__text__all">И ПОЛУЧИ БЕСПЛАТНО ОБСЛУЖИВАНИЕ САЙТА В ТЕЧЕНИЕ 3 МЕСЯЦЕВ</a>
                     <a className="stock__container__text__timer">До конца акции осталось:</a>
                     <div className="stock__container-image__timer">
