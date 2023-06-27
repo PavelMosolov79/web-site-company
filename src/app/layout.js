@@ -28,7 +28,7 @@ export default function RootLayout({ children }) {
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
 
-        <link rel="stylesheet" href="src/pages/Home.css" type="text/css" media="all" />
+        <link rel="stylesheet" href="src/pages/globals.css" type="text/css" media="all" />
       </head>
       <body className={inter.className}>{children}</body>
     </html>
